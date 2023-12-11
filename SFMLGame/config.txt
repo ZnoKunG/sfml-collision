@@ -1,0 +1,8 @@
+Window 1280 720 60
+Font fonts/tech.ttf 24 255 255 255
+Circle CGreen 100 100 -3 3 0 255 0 80
+Circle CBlue 500 100 3 5 0 0 255 100
+Circle CPurple 1000 100 -2 -1 255 0 255 60
+Rectangle RRed 100 400 5 6 255 0 0 100 45
+Rectangle RGrey 500 400 -3 3 100 100 100 100 130
+Rectangle RTeal 1000 400 -3 -3 0 255 255 80 160
